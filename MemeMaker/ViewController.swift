@@ -19,9 +19,9 @@ class ViewController: UIViewController {
     ]
     
     let bottomChoices = [
-        CaptionOption(emoji: "🐱", caption: "Cats wearing hats"),
-        CaptionOption(emoji: "🐶", caption: "Dogs carrying logs"),
-        CaptionOption(emoji: "🐒", caption: "Monkeys being funky")
+        CaptionOption(emoji: "🐱", caption: "Cats wearing shoes"),
+        CaptionOption(emoji: "🐶", caption: "Dogs carrying puppies"),
+        CaptionOption(emoji: "🐒", caption: "Monkeys being mad")
     ]
     
    
